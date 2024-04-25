@@ -193,7 +193,6 @@
     },
 
 
-
     {
 
         "desc": "广东教育翔云",
@@ -450,6 +449,7 @@
 
 
 
+
     {
 
         "desc": "陆陆陆云安全",
@@ -523,7 +523,6 @@
         }
 
     },
-
 
 
     {
@@ -604,29 +603,6 @@
 
     },
 
-    {
-
-        "desc": "广西人社厅",
-
-        "url": "http://rswb.gx12333.net/member/getRegisterphoneCode.jspx",
-
-        "method": "POST",
-
-        "header": "",
-
-        "data": {
-
-            "aae005": "[phone]",
-
-            "aac003": "刘萌萌",
-
-            "aac002": "210212198506035924",
-
-            "notkeyflag": "1"
-
-        }
-
-    },
 
     {
 
@@ -705,7 +681,6 @@
         }
 
     },
-
 
 
     {
@@ -800,19 +775,7 @@
 
     },
 
-    {
-
-        "desc": "工伤预防网上培训平台",
-
-        "url": "http://wf.zhuanjipx.com:8084//api-user/zjUsersPersonal/getSmsCode?mobile=[phone]&mobileCodeId=a87c9338-43a1-66ea-8ce7-1b1ac7c39d69",
-
-        "method": "GET",
-
-        "header": "",
-
-        "data": {}
-
-    },
+   
 
     {
 
@@ -940,6 +903,7 @@
 
     },
 
+    
 
     {
 
